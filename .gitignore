@@ -1,0 +1,16 @@
+# Dependencies
+/node_modules
+
+# Production build
+/.next
+/out
+
+# Environment files
+.env.local
+.env.*.local
+
+# Misc
+.DS_Store
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
